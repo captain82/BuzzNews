@@ -1,7 +1,8 @@
-package com.captain.buzznews
+package com.captain.buzznews.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.captain.buzznews.R
 
 class MainActivity : AppCompatActivity() {
 
